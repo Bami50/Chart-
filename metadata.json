@@ -1,0 +1,6 @@
+{
+  "name": "ApexStudio - Advanced Charting & Visual Analytics",
+  "description": "Advanced charting studio powered by ApexCharts with synchronized crosshairs, real-time streaming, dynamic annotations, statistical analytics, and live configuration export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
